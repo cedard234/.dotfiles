@@ -1,0 +1,30 @@
+" display
+set number
+set cursorline
+set scrolloff=5
+set showmatch
+
+" syntax + colors
+syntax on
+colorscheme desert
+set background=dark
+
+" indentation
+set autoindent
+set smartindent
+set expandtab
+set tabstop=4
+set shiftwidth=4
+
+" search
+set incsearch
+set hlsearch
+set ignorecase
+set smartcase
+
+" usability
+set backspace=indent,eol,start
+set mouse=a
+set wildmenu
+set laststatus=2
+set ruler
