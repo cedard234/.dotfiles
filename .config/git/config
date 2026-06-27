@@ -1,0 +1,12 @@
+[init]
+	defaultBranch = master
+[user]
+	signingkey = 33D4CF2DEC14245D34D75AD146D80BA7894F9EFB
+	name = Di Wang
+	email = wangdi1310@gmail.com
+[commit]
+	gpgsign = true
+[gpg]
+	program = /opt/homebrew/bin/gpg
+[core]
+	excludesfile = ~/.config/git/ignore
